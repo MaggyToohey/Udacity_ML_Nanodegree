@@ -2,6 +2,6 @@
 Project work for the udacity nanodegree
 
 ## Contents
-Sentiment Analysis Project
-Plagiarism Project
-Capstone Project
+ - Sentiment Analysis Project
+ - Plagiarism Project
+ - Capstone Project
